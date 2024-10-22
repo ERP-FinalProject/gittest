@@ -1,5 +1,5 @@
 
-bbbddd
+bbbdddddd
 testtddd
 N, M = map(int,input().split())
 tmp = 0
